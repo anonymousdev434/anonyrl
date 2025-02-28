@@ -25,7 +25,7 @@
 #### 2.1 Clone GitHub repository
 Clone the GitHub repository to your local directory. The docker will be also mounted via the local path.
 
-    git clone https://github.com/anonymousdev434/anonymousdev.git <YOUR LOCAL PATH>
+    git clone https://github.com/anonymousdev434/anonyrl.git <YOUR LOCAL PATH>
 
 
 #### 2.2 Pull the docker image
