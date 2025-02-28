@@ -1,0 +1,10 @@
+*.json
+__pycache__
+*.o
+results-*/
+*.txt
+*output
+blackscholes
+tempscripts/blackscholes.cpp
+
+!replacement.txt

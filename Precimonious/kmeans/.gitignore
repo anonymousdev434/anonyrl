@@ -1,0 +1,12 @@
+*.json
+__pycache__
+*.o
+results-*/
+*.txt
+*output
+kmeans
+*bin
+tempscripts/kmeans.cpp
+
+!replacement.txt
+

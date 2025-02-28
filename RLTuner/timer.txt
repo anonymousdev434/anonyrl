@@ -1,0 +1,62 @@
+2025-01-13 11:54:25 INFO     Bench --> funarc
+2025-01-13 11:54:26 INFO           epsilon --> 4  time --> 0:00:00.548662
+2025-01-13 11:54:26 INFO     TOTAL TIME: 0:00:00.550277
+2025-01-13 13:47:26 INFO     Bench --> funarc
+2025-01-13 13:47:27 INFO           epsilon --> 4  time --> 0:00:00.488553
+2025-01-13 13:47:27 INFO     TOTAL TIME: 0:00:00.489005
+2025-01-13 13:52:15 INFO     Bench --> funarc
+2025-01-13 13:52:20 INFO           epsilon --> 4  time --> 0:00:05.058438
+2025-01-13 13:52:20 INFO     TOTAL TIME: 0:00:05.058811
+2025-01-14 14:48:36 INFO     Bench --> funarc
+2025-01-14 14:49:01 INFO           epsilon --> 4  time --> 0:00:24.517018
+2025-01-14 14:49:01 INFO     TOTAL TIME: 0:00:24.517363
+2025-01-14 14:49:07 INFO     Bench --> funarc
+2025-01-14 14:49:25 INFO           epsilon --> 4  time --> 0:00:18.416860
+2025-01-14 14:49:25 INFO     TOTAL TIME: 0:00:18.417262
+2025-01-14 14:49:31 INFO     Bench --> funarc
+2025-01-14 14:49:39 INFO           epsilon --> 4  time --> 0:00:07.563655
+2025-01-14 14:49:39 INFO     TOTAL TIME: 0:00:07.564049
+2025-01-14 14:49:47 INFO     Bench --> funarc
+2025-01-14 14:49:52 INFO           epsilon --> 4  time --> 0:00:04.510634
+2025-01-14 14:49:52 INFO     TOTAL TIME: 0:00:04.510998
+2025-01-14 14:50:00 INFO     Bench --> funarc
+2025-01-14 14:50:09 INFO           epsilon --> 4  time --> 0:00:09.109453
+2025-01-14 14:50:09 INFO     TOTAL TIME: 0:00:09.109830
+2025-01-14 15:06:34 INFO     Bench --> funarc
+2025-01-14 15:06:39 INFO           epsilon --> 4  time --> 0:00:04.881139
+2025-01-14 15:06:39 INFO     TOTAL TIME: 0:00:04.881504
+2025-01-14 15:06:42 INFO     Bench --> funarc
+2025-01-14 15:06:45 INFO           epsilon --> 4  time --> 0:00:03.337656
+2025-01-14 15:06:45 INFO     TOTAL TIME: 0:00:03.338049
+2025-01-14 15:06:48 INFO     Bench --> funarc
+2025-01-14 15:06:52 INFO           epsilon --> 4  time --> 0:00:03.878258
+2025-01-14 15:06:52 INFO     TOTAL TIME: 0:00:03.878602
+2025-01-14 15:06:56 INFO     Bench --> funarc
+2025-01-14 15:07:00 INFO           epsilon --> 4  time --> 0:00:03.433129
+2025-01-14 15:07:00 INFO     TOTAL TIME: 0:00:03.433507
+2025-01-15 11:51:12 ERROR    Invalid setting: NAIVE
+2025-01-15 11:51:12 INFO     Bench --> funarc
+2025-01-15 11:52:08 INFO     Bench --> funarc
+2025-01-15 11:52:08 INFO           epsilon --> 4  time --> 0:00:00.553317
+2025-01-15 11:52:08 INFO     TOTAL TIME: 0:00:00.553697
+2025-01-15 11:53:27 INFO     Bench --> funarc
+2025-01-15 11:53:28 INFO           epsilon --> 4  time --> 0:00:00.491668
+2025-01-15 11:53:28 INFO     TOTAL TIME: 0:00:00.492024
+2025-01-15 11:56:33 INFO     Bench --> funarc
+2025-01-15 11:56:46 INFO           epsilon --> 4  time --> 0:00:13.181968
+2025-01-15 11:56:46 INFO     TOTAL TIME: 0:00:13.182367
+2025-01-15 12:31:55 INFO     Bench --> funarc
+2025-01-15 12:33:46 INFO           epsilon --> 4  time --> 0:01:50.797635
+2025-01-15 12:33:46 INFO     TOTAL TIME: 0:01:50.798047
+2025-01-15 12:37:15 INFO     Bench --> funarc
+2025-01-15 12:39:03 INFO           epsilon --> 4  time --> 0:01:48.411702
+2025-01-15 12:39:03 INFO     TOTAL TIME: 0:01:48.412230
+2025-01-15 12:39:12 INFO     Bench --> funarc
+2025-01-15 12:39:27 INFO           epsilon --> 4  time --> 0:00:14.763715
+2025-01-15 12:39:27 INFO     TOTAL TIME: 0:00:14.764085
+2025-01-15 12:39:29 INFO     Bench --> funarc
+2025-01-15 12:39:44 INFO           epsilon --> 4  time --> 0:00:14.748069
+2025-01-15 12:39:44 INFO     TOTAL TIME: 0:00:14.748502
+2025-01-15 12:39:52 INFO     Bench --> funarc
+2025-01-15 12:39:57 INFO           epsilon --> 4  time --> 0:00:05.696242
+2025-01-15 12:39:57 INFO     TOTAL TIME: 0:00:05.696638

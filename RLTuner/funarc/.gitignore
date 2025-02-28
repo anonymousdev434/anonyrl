@@ -1,0 +1,4 @@
+*.o
+*.dSYM
+timer.txt
+*.pyc

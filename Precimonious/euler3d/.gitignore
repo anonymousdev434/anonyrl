@@ -1,0 +1,10 @@
+*.json
+__pycache__
+*.o
+results-*/
+*.txt
+*output
+euler3d
+tempscripts/pre_euler3d_cpu.cpp
+
+!replacement.txt
